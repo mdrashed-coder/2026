@@ -1,0 +1,26 @@
+.pad{
+    padding: 50px 30px;
+    background: violet;
+}
+ul{
+    list-style: none;
+    margin: 0 auto;
+    text-align: center;
+}
+ul li{
+    margin: 5px 5px;
+    display: inline-block;
+    
+}
+ul li a{
+    padding: 8px 12px;
+    text-decoration: none;
+    display: inline-block;
+    background: gray;
+
+}
+footer{
+    text-align: center;
+    background: grey;
+    padding: 20px;
+}
